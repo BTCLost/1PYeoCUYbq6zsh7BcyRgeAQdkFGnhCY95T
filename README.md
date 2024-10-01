@@ -1,26 +1,23 @@
-# BTC钱包售卖文档
+# BTC Wallet Sale Document
 
-## 钱包地址：  
+## Wallet Address:  
 **1PYeoCUYbq6zsh7BcyRgeAQdkFGnhCY95T**
 
-## 钱包介绍：
-这是一个稀有的比特币钱包,钱包已经被验证,是真正的钱包。
+## Wallet Description:  
+This is a rare Bitcoin wallet that has been verified as an authentic wallet.
 
 ![image](https://github.com/user-attachments/assets/4ffab23e-8f05-4a4b-adb3-d9e80abda3b5)
 
+## Sale Link:  
+Click the link below to make a purchase. Discounted price and secure transaction.
 
-## 售卖链接：
-点击下方链接进行购买，价格优惠，交易安全。
+[Buy Wallet](https://satoshidisk.com/pay/CMX8hA)
 
-[购买钱包](https://satoshidisk.com/pay/CMX8hA)
+## Important Notes:  
+- After purchasing this wallet, you will receive the private key and related information.
+- Please ensure you use a secure device for wallet management to safeguard your assets.
+- No refunds will be provided after the transaction is completed.
 
-## 注意事项：
-- 购买该钱包后，您将获得钱包的私钥及相关信息。
-- 请确保使用安全的设备进行钱包管理，确保资产安全。
-- 交易完成后将不提供退款服务。
-
-
----
 
 ## Success Stories
 
