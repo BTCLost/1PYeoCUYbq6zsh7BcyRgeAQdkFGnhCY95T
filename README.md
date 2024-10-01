@@ -6,7 +6,8 @@
 ## 钱包介绍：
 这是一个稀有的比特币钱包,钱包已经被验证,是真正的钱包。
 
-![钱包图片](https://github.com/user-attachments/assets/88b277fc-cc6b-4ffb-9f6d-f2f3e19ff9e1)
+![image](https://github.com/user-attachments/assets/4ffab23e-8f05-4a4b-adb3-d9e80abda3b5)
+
 
 ## 售卖链接：
 点击下方链接进行购买，价格优惠，交易安全。
